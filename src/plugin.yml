@@ -1,0 +1,5 @@
+name: AutoAnnouncer
+description: Annunci automatici
+version: 1.0.0
+author: AEndrix
+main: it.kayes.autoannouncer.main.Main
